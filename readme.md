@@ -1,4 +1,4 @@
-                  HELLO GUYS MY NANE IS ABHI ARYA 
+                  HELLO GUYS MY NAME IS ABHI ARYA 
 
 My portfolio designed by me also developed by me....... :-)
 This is my personal portfolio which showcase my knowledge on web development along with my projects and contact details also my education and achievements.
